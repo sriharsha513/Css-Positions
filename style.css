@@ -54,3 +54,13 @@ h2 {
   left: 20px;
   top: 40px;
 }
+
+.pos-float-lf {
+  float: left;
+  right: 30px;
+  
+}
+
+.pos-float-rt{
+  float: right;
+}
