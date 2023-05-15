@@ -1,3 +1,49 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
+}
+
+.para {
+  background-color: aqua;
+  border: 3px solid blue;
+  padding: 5px;
+  margin: 5px;
+}
+
+.positioned-0 {
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+
+.positioned-ab {
+  background-color: yellow;
+  border: 3px solid blue;
+  padding: 5px;
+  margin: 5px;
+}
+
+.positioned-fx {
+  background-color: salmon;
+  border: 3px solid blue;
+  padding: 5px;
+  margin: 5px;
+}
+
+.positioned-1 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
+
+.positioned-2 {
+  position: fixed;
+  top: 60px;
+  left: 30px;
+}
+
+.position-st {
+  position: sticky;
+  top: 30px;
+  left: 30px;
 }
